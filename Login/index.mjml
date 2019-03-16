@@ -1,0 +1,34 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" width="360px" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" color="#fff"></mj-text>
+      <mj-button inner-padding="0px" border-radius="1px" background-color="#F63A4D" css-class="btn-link"></mj-button>
+    </mj-attributes>
+    <mj-style inline="inline">.btn-link a { padding: 9px 20px; border-radius: 16px; display: inline-block; }</mj-style>
+  </mj-head>
+  <mj-body background-color="#111111">
+
+    <mj-section padding="10px" background-url="">
+    </mj-section>
+    <mj-section padding="70px" background-color="#1B1B1B" background-url="http://xsolla.maiik.ru/anikonova/PP_mail_03.jpg">
+    </mj-section>
+    <mj-wrapper padding="20px" background-color="#1B1B1B" border-radius="0px">
+
+      <mj-section padding="20px 0 0 0" background-url="">
+        <mj-column>
+          <mj-text font-size="32px" line-height="42px">Password reset request</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="8px 0 30px 0">
+        <mj-column>
+          <mj-text font-size="16px" line-height="24px">If you requested a password reset, click the button below. If you didn't make this request, ignore this email.</mj-text>
+
+          <mj-button color="#ffffff" border-radius="2px" background-color="#EB5D34" font-size="14px" padding="16px" font-weight="normal" letter-spacing="0.2em" href="#">RESET PASSWORD</mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section padding="20px" background-url="">
+      <mj-text font-size="14px" color="#ffffff" line-height="24px">You receive this letter because you signed up to {gamename} on <a href="{gameurl}" style="color: #EB5D34;">{gameurl}</a></mj-text>
+    </mj-section>
+  </mj-body>
+</mjml>

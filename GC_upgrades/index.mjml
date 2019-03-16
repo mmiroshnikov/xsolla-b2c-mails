@@ -1,0 +1,133 @@
+<mjml>
+  <mj-body background-color="#000000" color="#CFBABA" font-family="Roboto, Arial, sans-serif" width="400px">
+
+    <mj-section
+    background-color="#242337"
+    background-repeat="no-repeat"
+    text-align="center"
+    vertical-align="top"
+    >
+      <mj-column>
+
+        <mj-text align="center" color="#CFBABA" font-family="Roboto, Arial,sans-serif" font-size="13px" line-height="22px" padding-bottom="5px" padding="25px 25px 0 25px">
+          <p style="line-height: 40px; text-align: center; margin: 10px 0;font-size:28px;color:#F6A258;font-family:Roboto,Helvetica,Arial,sans-serif"><b>Апгрейд до <br/> Platinum Edition</b></p>
+        </mj-text>
+
+        <mj-text align="center" color="#55575d" font-family="Roboto,Arial,sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0">
+          <p style="font-weight: bold; line-height: 30px; text-align: center; margin: 20px 0;color:#FFF;font-size:18px;font-family:Roboto,Helvetica,Arial,sans-serif">Дорогой игрок, cпасибо за поддержку!</p>
+          <p style=" text-align: center; margin: 20px 0; color:#F7FAFF; font-size:16px; line-height: 26px;font-family:Roboto,Helvetica,Arial,sans-serif">Ниже ты увидишь ссылку на апгрейд до выбранного тобой пакета. В день релиза игры ты получишь письмо с доступом к Phoenix point.
+          Приятной игры!
+          </p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section
+    background-color="#242337"
+    border-left="24px solid #242337"
+    border-right="24px solid #242337"
+    border-bottom="0px solid #242337"
+    padding="0 0 36px 0"
+    >
+      <mj-group >
+        <mj-column border-radius="8px" border="2px solid #F6A258" padding="0px">
+            <mj-text align="left" color="#F7FAFF" font-size="14px" line-height="22px" padding="0px 14px 0px 16px">
+              <p style="color:#F6A258">
+              Но прежде, чем совершать апгрейд, обрати внимание, что ты уже покупал тот пакет, на который ты пытаешься перейти.
+              </p>
+            </mj-text>
+
+
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section background-color="#2D2B45"
+    border-left="24px solid #242337"
+    border-right="24px solid #242337"
+    padding="36px 0 6px 0"
+    >
+      <mj-group >
+        <mj-column  padding="0px" >
+
+            <mj-image width="137px" height="185px" padding="0" src="https://res.cloudinary.com/maiik/image/upload/v1552628397/Xsolla_Game_Commerce/PP_Center_Man.gif" />
+            <mj-text align="center" color="#F7FAFF" font-size="16px" line-height="22px">
+              <h2 style="font-size:16px" padding="0">PLATINUM EDITION</h2>
+              <p style="color:#ADACC1; font-size: 14px">
+              Digital product key for Phoenix Point, includes Alien Living Weapons and Armour DLC, digital art book, ebook and soundtrack, and <b>Early Access</b>.
+            </mj-text>
+
+            <mj-button padding="0px" background-color="#F6A258" border-radius="3px" font-family="Roboto, Helvetica, Arial, sans-serif" font-size="18px" font-weight="normal"><span style="color:#212020">Улучшить за 4000 руб.</span></mj-button>
+            <mj-text align="center" font-family="Roboto,Arial,sans-serif" font-size="20px" color="#F6A258" text-decoration="line-through" font-size="14px" line-height="20px">
+              <p>26 000 руб.</p>
+            </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+
+    <mj-section background-color="#242337"
+    border-left="24px solid #242337"
+    border-right="24px solid #242337"
+    padding="0px 0 12px 0"
+    >
+      <mj-column>
+
+        <mj-text align="center" color="#ADACC1" font-family="Roboto,Arial,sans-serif" font-size="13px" line-height="22px" padding-bottom="0px">
+
+          <p padding="0" style="font-size: 14px; text-align: center; color:#F7FAFF; line-height: 26px;font-family:Roboto,Helvetica,Arial,sans-serif">Если ты сомневаешься, то обрати внимание на другие возможности по апгрейдам
+          </p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2D2B45"
+    border-left="24px solid #242337"
+    border-right="24px solid #242337"
+    border-bottom="28px solid #242337"
+    padding="20px 0 0 0" >
+      <mj-group >
+        <mj-column  padding="0px" >
+
+            <mj-image width="137px" height="185px" padding="0" src="https://res.cloudinary.com/maiik/image/upload/v1552628398/Xsolla_Game_Commerce/PP_Right_Man.gif" />
+            <mj-text align="center" color="#F7FAFF" font-size="14px" line-height="22px">
+              <h2 style="font-size:16px" padding="0" >SIGNATURE EDITION</h2>
+              <p style="color:#ADACC1">
+              Your name (or the name of your choice) will be included in the game's main procedural generation pool for naming squad members. Includes everything in the Luxury Digital Edition.
+            </mj-text>
+
+            <mj-button padding="0px" background-color="#F6A258" border-radius="3px" font-family="Roboto, Helvetica, Arial, sans-serif" font-size="18px" font-weight="normal"><span style="color:#212020">Улучшить за 11 000 руб.</span></mj-button>
+            <mj-text align="center" font-family="Roboto,Arial,sans-serif" font-size="20px" color="#F6A258" text-decoration="line-through" font-size="14px" line-height="20px">
+              <p>36 000 руб.</p>
+            </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+
+    <mj-section background-color="#000000" background-repeat="no-repeat" text-align="center" vertical-align="top" padding-bottom="40px" padding="0 0 0 0">
+      <mj-column>
+
+
+        <mj-text align="left" color="#8582AB" font-family="Roboto, Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="20px" padding="10px 25px">
+          <p style="line-height: 16px; text-align: center; margin: 10px 0;font-size:12px;color:#8582AB;font-family:Roboto,Helvetica,Arial,sans-serif">* Offer valid on Allura purchases on 17/29/11 at 11:59 pm. No price adjustments on previous
+          <br/>
+          <br/>Copyright © 2018 Human Head Studios, All rights reserved.
+          Thanks for signing up for Rune: Ragnarok exclusive updates and information.<br/>
+          <br/>
+          Our mailing address is: Human Head Studios 1741 Commercial Ave Madison, Wi 53704</p>
+        </mj-text>
+
+
+      </mj-column>
+    </mj-section>
+
+
+  </mj-body>
+</mjml>
