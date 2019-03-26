@@ -1,5 +1,5 @@
 <mjml>
-  <mj-body background-color="#000000" color="#CFBABA" font-family="Roboto, Arial, sans-serif" width="400px">
+  <mj-body background-color="#000000" color="#CFBABA" font-family="Roboto, Arial, sans-serif" width="640px">
 
     <mj-section
     background-color="#242337"
@@ -9,13 +9,13 @@
     >
       <mj-column>
 
-        <mj-text align="center" color="#CFBABA" font-family="Roboto, Arial,sans-serif" font-size="13px" line-height="22px" padding-bottom="5px" padding="25px 25px 0 25px">
-          <p style="line-height: 40px; text-align: center; margin: 10px 0;font-size:28px;color:#F6A258;font-family:Roboto,Helvetica,Arial,sans-serif"><b>Апгрейд до <br/> Platinum Edition</b></p>
+        <mj-text align="center" color="#CFBABA" font-family="Roboto, Arial,sans-serif" font-size="13px" line-height="22px"  padding="24px 36px 0 36px">
+          <p style="line-height: 40px; text-align: left; margin: 10px 0; font-size:28px;color:#F6A258;font-family:Roboto,Helvetica,Arial,sans-serif"><b>Апгрейд до <br/> Platinum Edition</b></p>
         </mj-text>
 
-        <mj-text align="center" color="#55575d" font-family="Roboto,Arial,sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="0">
-          <p style="font-weight: bold; line-height: 30px; text-align: center; margin: 20px 0;color:#FFF;font-size:18px;font-family:Roboto,Helvetica,Arial,sans-serif">Дорогой игрок, cпасибо за поддержку!</p>
-          <p style=" text-align: center; margin: 20px 0; color:#F7FAFF; font-size:16px; line-height: 26px;font-family:Roboto,Helvetica,Arial,sans-serif">Ниже ты увидишь ссылку на апгрейд до выбранного тобой пакета. В день релиза игры ты получишь письмо с доступом к Phoenix point.
+        <mj-text align="center" color="#55575d" font-family="Roboto,Arial,sans-serif" font-size="13px" line-height="22px"  padding="24px 36px 0 36px" padding-top="0">
+          <p style="font-weight: bold; line-height: 30px; text-align: left; margin: 20px 0;color:#FFF;font-size:18px;font-family:Roboto,Helvetica,Arial,sans-serif">Дорогой игрок, cпасибо за поддержку!</p>
+          <p style=" text-align: left; margin: 20px 0; color:#F7FAFF; font-size:16px; line-height: 26px;font-family:Roboto,Helvetica,Arial,sans-serif">Ниже ты увидишь ссылку на апгрейд до выбранного тобой пакета. В день релиза игры ты получишь письмо с доступом к Phoenix point.
           Приятной игры!
           </p>
         </mj-text>
@@ -27,8 +27,8 @@
 
     <mj-section
     background-color="#242337"
-    border-left="24px solid #242337"
-    border-right="24px solid #242337"
+    border-left="36px solid #242337"
+    border-right="36px solid #242337"
     border-bottom="0px solid #242337"
     padding="0 0 36px 0"
     >
@@ -47,8 +47,8 @@
 
 
     <mj-section background-color="#2D2B45"
-    border-left="24px solid #242337"
-    border-right="24px solid #242337"
+    border-left="36px solid #242337"
+    border-right="36px solid #242337"
     padding="36px 0 6px 0"
     >
       <mj-group >
@@ -72,15 +72,15 @@
 
 
     <mj-section background-color="#242337"
-    border-left="24px solid #242337"
-    border-right="24px solid #242337"
     padding="0px 0 12px 0"
+    border-left="12px solid #242337"
+    border-right="12px solid #242337"
+    padding="36px 0 6px 0"
     >
       <mj-column>
 
-        <mj-text align="center" color="#ADACC1" font-family="Roboto,Arial,sans-serif" font-size="13px" line-height="22px" padding-bottom="0px">
-
-          <p padding="0" style="font-size: 14px; text-align: center; color:#F7FAFF; line-height: 26px;font-family:Roboto,Helvetica,Arial,sans-serif">Если ты сомневаешься, то обрати внимание на другие возможности по апгрейдам
+        <mj-text align="center" color="#ADACC1" font-family="Roboto,Arial,sans-serif" padding-bottom="0px">
+          <p padding="0" style="font-size: 16px; text-align: left; color:#F7FAFF; line-height: 26px;font-family:Roboto,Helvetica,Arial,sans-serif">Если ты сомневаешься, то обрати внимание на другие возможности по апгрейдам
           </p>
         </mj-text>
 
@@ -88,8 +88,8 @@
     </mj-section>
 
     <mj-section background-color="#2D2B45"
-    border-left="24px solid #242337"
-    border-right="24px solid #242337"
+    border-left="36px solid #242337"
+    border-right="36px solid #242337"
     border-bottom="28px solid #242337"
     padding="20px 0 0 0" >
       <mj-group >
@@ -115,7 +115,7 @@
       <mj-column>
 
 
-        <mj-text align="left" color="#8582AB" font-family="Roboto, Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-top="20px" padding="10px 25px">
+        <mj-text align="left" color="#8582AB" font-family="Roboto, Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding="20px 36px 10px 36px">
           <p style="line-height: 16px; text-align: center; margin: 10px 0;font-size:12px;color:#8582AB;font-family:Roboto,Helvetica,Arial,sans-serif">* Offer valid on Allura purchases on 17/29/11 at 11:59 pm. No price adjustments on previous
           <br/>
           <br/>Copyright © 2018 Human Head Studios, All rights reserved.
