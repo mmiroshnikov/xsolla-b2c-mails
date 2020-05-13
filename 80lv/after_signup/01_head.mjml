@@ -1,0 +1,35 @@
+<mj-wrapper padding="0">
+
+<mj-section
+            css-class="padd"
+            background-color="#FACAD9"
+            border-radius="8px 8px 0 0"
+            padding-top="40px"
+            padding-bottom="40px"
+            >
+  
+  
+  
+  <mj-column width="100%" padding="0 0 60px 0">
+    <mj-image align="left" width="114px" padding="0" src="http://static.xsolla.com/80lv/emails/RFP/80logo.png"/>
+  </mj-column>
+  
+    <mj-column width="100%" padding="0">
+    <mj-text mj-class="h1">
+    Hi, [Name]!  	
+    </mj-text>
+      
+      <mj-spacer height="24px" />
+      
+      <mj-text mj-class="pb">
+    Thank you for registering with 80 Level RFP. We are very glad to have you on board!  	
+    </mj-text>
+      
+  </mj-column>
+  
+    <mj-column>
+    
+  </mj-column>
+
+</mj-section>
+</mj-wrapper>

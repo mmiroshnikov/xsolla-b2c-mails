@@ -1,0 +1,18 @@
+
+    <mj-section css-class="padd" padding-top="0" padding-bottom="40px">
+      <mj-column>
+        
+        <mj-text mj-class="h2">
+          1. Display your work
+        </mj-text>
+        
+        <mj-text mj-class="pw">
+          Add new projects to your profile by uploading images and other materials.
+        </mj-text>
+        
+        <mj-spacer css-class="spacer32" />
+        
+        <mj-image align="center" width="320px" src="http://static.xsolla.com/80lv/emails/RFP/Registration/01-Your-work.png" padding="0" />
+        
+      </mj-column>
+    </mj-section>

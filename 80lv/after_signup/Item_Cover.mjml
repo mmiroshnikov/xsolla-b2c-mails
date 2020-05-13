@@ -1,0 +1,18 @@
+
+    <mj-section css-class="padd" padding-top="0" padding-bottom="40px">
+      <mj-column>
+        
+        <mj-text mj-class="h2">
+          2. Chose a cover image
+        </mj-text>
+        
+        <mj-text mj-class="pw">
+          The selected image will be your profile's cover art in the 80 Level RFP database.
+        </mj-text>
+        
+        <mj-spacer css-class="spacer32" />
+        
+        <mj-image align="center" width="320px" src="http://static.xsolla.com/80lv/emails/RFP/Registration/02-Cover_img.png" padding="0" />
+        
+      </mj-column>
+    </mj-section>

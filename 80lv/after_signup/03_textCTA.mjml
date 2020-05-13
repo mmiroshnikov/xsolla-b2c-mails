@@ -1,0 +1,22 @@
+<mj-wrapper padding="0">
+    <mj-section
+            css-class="padd"
+            background-color="#FACAD9"
+            padding-top="40px"
+            padding-bottom="0"
+            >
+      <mj-column>
+        
+        <mj-text mj-class="pb">
+          You'll receive RFP questionnaires from companies that are considering you for open positions on their creative teams. Review each position and answer the questions in the form as best you can, providing info about what's important to you and your expectations. <br>
+        </mj-text>
+        
+        <mj-spacer css-class="spacer32" />
+
+        <mj-button padding="0" align="left" mj-class="btn" href="https://80.lv/RFP/art-builder" inner-padding="12px 32px" target="_blank" style="text-decoration: inherit;color: inherit;" font-size="15px" font-weight="700" line-height="24px">
+      ADD PROJECTS
+         </mj-button>
+        
+      </mj-column>
+    </mj-section>
+</mj-wrapper>

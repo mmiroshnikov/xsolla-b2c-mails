@@ -1,0 +1,10 @@
+
+    <mj-section css-class="padd" padding-top="40px" padding-bottom="40px">
+      <mj-column padding="0">
+        
+        <mj-text mj-class="pw">
+          Here are the next steps to help you get discovered by top-tier companies:
+        </mj-text>
+        
+      </mj-column>
+    </mj-section>

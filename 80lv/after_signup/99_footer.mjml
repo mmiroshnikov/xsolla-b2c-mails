@@ -1,0 +1,17 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="pf" >
+          This email was sent to XXXXXX@XXXXXXX.XX. If you don't want to receive these emails from 80.lv in the future, you can <a href="mailto:RFP@80.lv?Subject=Unsubscribe%20from%20RFP%2080.lv%20newsletter&body=I%20want%20to%20unsubscribe%20from%20RFP%2080.lv%20newsletter" style="color: inherit; font-weight: 700">unsubscribe.</a></br>
+
+<a href="https://80.lv/RFP/terms-of-use" style="color: inherit; font-weight: 700">Terms of Use</a> &emsp;
+<a href="https://80.lv/privacy-policy" style="color: inherit; font-weight: 700">Privacy Policy</a> &emsp;
+<br>
+80 Level · Ventura Blvd #2230 · Sherman Oaks, Ca 91403 · USA<br> 
+2020 all rights reserved &#9400;
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

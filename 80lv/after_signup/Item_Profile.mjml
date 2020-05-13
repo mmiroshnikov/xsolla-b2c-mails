@@ -1,0 +1,18 @@
+
+    <mj-section css-class="padd" padding-top="0" padding-bottom="0">
+      <mj-column>
+        
+        <mj-text mj-class="h2">
+          3. Publish your profile
+        </mj-text>
+        
+        <mj-text mj-class="pw">
+          In Settings, make sure that you have up-to-date info about your position, location (city, state, country), and skills, as this will help companies to find you more quickly in the database.
+        </mj-text>
+        
+        <mj-spacer css-class="spacer32" />
+        
+        <mj-image align="center" width="320px" src="http://static.xsolla.com/80lv/emails/RFP/Registration/03-Profile.png" padding="0" />
+        
+      </mj-column>
+    </mj-section>

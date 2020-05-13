@@ -1,0 +1,24 @@
+<mj-wrapper padding="0">
+    <mj-section
+            css-class="padd"
+            background-color="#FACAD9"
+            border-radius="0 0 8px 8px"
+            padding-top="40px"
+            padding-bottom="40px"
+            >
+      <mj-column>
+        
+        <mj-text mj-class="pb">
+          Thank you again for joining 80 Level RFP.<br>
+          Please reply to this email if you have any questions.
+        </mj-text>
+        
+        <mj-spacer height="16px"/>
+        
+        <mj-text mj-class="pb" font-weight="700">
+          Thank you,<br>80 Level RFP Team
+        </mj-text>
+        
+      </mj-column>
+    </mj-section>
+</mj-wrapper>
