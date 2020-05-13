@@ -16,6 +16,7 @@
 
       <mj-section padding="20px 0 0 0" background-url="">
         <mj-column>
+
           <mj-text font-size="32px" line-height="42px">Password reset request</mj-text>
         </mj-column>
       </mj-section>
