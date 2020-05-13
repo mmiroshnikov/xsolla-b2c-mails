@@ -1,0 +1,6 @@
+ <mj-section padding-bottom="0" padding-top="24px">
+      <mj-text color="#747E8A" font-family="Helvetica Neue, Arial, sans-serif" font-size="14px">
+          Feedback? Just Reply to this message
+        </mj-text>
+      </mj-column>
+    </mj-section>

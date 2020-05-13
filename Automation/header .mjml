@@ -1,0 +1,9 @@
+<mj-section padding-top="24px" padding-bottom="24px">
+
+  <mj-column>
+    <mj-image  align="left" alt="xsolla-logo" src="http://static.xsolla.com/80lv/emails/xsolla/xsolla_logo.png" height="80px" width="168px">
+    </mj-text>    
+  </mj-column>
+  
+
+</mj-section>

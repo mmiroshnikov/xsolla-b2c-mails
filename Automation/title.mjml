@@ -1,0 +1,6 @@
+<mj-section padding="0">
+      <mj-column>
+        <mj-text mj-class="title" color="#00244d" font-family="Helvetica Neue, Arial, sans-serif" font-weight="bold" font-size="24px" line-height="29px" padding="0 0 8px 0" align="left" >
+         Отчет о переработках за февраль
+        </mj-text>
+</mj-section>
