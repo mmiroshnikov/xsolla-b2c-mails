@@ -1,0 +1,7 @@
+    <mj-section padding="0" padding-top="48px">
+      <mj-column padding="0">
+        <mj-text mj-class="text over" color="#747e8a" font-size="16px" line-height="24px">
+          Привет, Лиза. Были ли у тебя переработки в феврале 2020?  Заполни их, если они были. Или подтверди статус, если их</br>не было. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
