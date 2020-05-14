@@ -1,0 +1,58 @@
+<mjml>
+
+  <mj-head>
+    <mj-style>
+    .padd {
+      padding: 48px 56px !important;
+      max-width: 476px !important;
+      border: 6px solid #0073f7 !important; 
+    }
+    @media only screen and (max-width: 480px){    
+    .padd {
+      padding: 24px 20px !important;
+    }}
+    </mj-style>
+    
+    <mj-attributes>
+      <mj-text font-family="Helvetica Neue, Arial, sans-serif" padding="0px" />
+      <mj-all font-family="Helvetica Neue, Arial, sans-serif" padding="0" color="#00244d" />  
+      
+      <mj-class
+                name="btn"
+                padding="0 16px 24px 0"
+                width="100%"
+                font-family="Helvetica Neue"
+                font-style="normal"
+                font-weight="bold"
+                font-size="12px"
+                line-height="16px"
+                text-transform="uppercase"
+                border-radius="100px"
+                background-color="#0073F7"
+                color="white"
+                align="left"
+                letter-spacing="1px"
+/> 
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#F7FAFF">
+
+    <mj-include path="./header .mjml" />
+
+    <mj-wrapper css-class="padd" background-color="#ffffff" >
+       
+      <mj-include path="./title.mjml" />
+      <mj-include path="./date.mjml" />
+      <mj-include path="./main text.mjml" />
+      <mj-include path="./butt.mjml" />
+      <mj-include path="./feedback.mjml" />
+      <mj-include path="./best regards.mjml" />
+    </mj-wrapper>
+    
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+
+</mjml>
