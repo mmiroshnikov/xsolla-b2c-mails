@@ -1,0 +1,22 @@
+<mj-include path="./spacer24.mjml" />
+<mj-section >
+   <mj-column >
+      <mj-text padding="0 0 24px 0" font-size="14px" line-height="1.4" color="#747e8a" font-family="Helvetica Neue, Arial, sans-serif">
+         
+                    Please, addresse all questions and ideas to a.tilmachev@xsolla.com.
+         
+      </mj-text>
+      
+      <mj-text font-weight="600" align="left" font-size="14px" line-height="1.4" padding="0 0 0 0" font-family="Helvetica Neue, Arial, sans-serif" color="#00244d">
+         
+                    In data we trust and bring it to action,
+                
+         <br>
+                    Data Science Team
+         </br>
+        
+      </mj-text>
+         
+   </mj-column>
+</mj-section>
+<mj-include path="./spacer24.mjml" />

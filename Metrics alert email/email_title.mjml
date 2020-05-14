@@ -1,0 +1,8 @@
+<mj-include path="./spacer24.mjml" />
+<mj-section padding="0">
+      <mj-column >
+        <mj-text font-weight="bold" font-size="24px" line-height="1.4" padding="0 0 8px 0" align="left" color="#00244d" font-family="Helvetica Neue, Arial, sans-serif">
+          MetricStream alert report
+          </mj-text>
+        </mj-column>
+</mj-section>

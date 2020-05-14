@@ -1,0 +1,14 @@
+<mj-section padding="0" >
+   <mj-column>
+      <mj-table padding="0" align="left" cellspacing="0" cellpadding="0">
+          <tr style="text-align:left;padding:0;">
+            <td style="padding: 0;width:24px;"><img style="width: 24px; vertical-align: middle; margin-right: 8px;" src="http://static.xsolla.com/80lv/emails/xsolla/Calendar.png" /></td>
+            <td style="padding: 0; font-weight: 400;
+font-size: 14px;
+line-height: 24px; color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">[[Email date]]</td>
+            
+          </tr>
+      </mj-table>
+   </mj-column>
+</mj-section>
+<mj-include path="./spacer24.mjml" />

@@ -1,0 +1,60 @@
+<mjml>
+
+  <mj-head>
+    <mj-style>
+    .padd {
+      padding: 24px 56px !important;
+      max-width: 476px !important;
+      border: 6px solid #0073f7 !important; 
+    }
+    @media only screen and (max-width: 480px){    
+    .padd {
+      padding: 10px 20px !important;
+    }}
+    </mj-style>
+    
+    <mj-attributes>
+      <mj-text align="left" font-family="Helvetica Neue, Arial, sans-serif" padding="0px" />
+      <mj-all font-family="Helvetica Neue, Arial, sans-serif" padding="0" color="#00244d" />      
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#F7FAFF">
+
+    <mj-include path="./header.mjml" />
+
+    <mj-wrapper css-class="padd" background-color="#ffffff" >
+       
+      <mj-include path="./email_title.mjml" />
+      <mj-include path="./email_date.mjml" />
+     
+      
+      <mj-include path="./alert.mjml" />
+
+      <mj-include path="./product_title.mjml" />
+      
+      
+      
+      <mj-include path="./metrica_card.mjml" />
+      
+      
+    
+      <mj-include path="./divider24.mjml" />
+     
+       
+      <mj-include path="./links.mjml" />
+       
+      <mj-include path="./divider24.mjml" />
+
+      <mj-include path="./regards.mjml" />
+  
+    </mj-wrapper>
+    
+    
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+
+</mjml>

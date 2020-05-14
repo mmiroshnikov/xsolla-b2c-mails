@@ -1,0 +1,17 @@
+<mj-include path="./spacer24.mjml" />
+
+<mj-section padding="0">  
+   <mj-column padding="0" >
+    <mj-text font-weight="bold" font-size="18px" line-height="1.4" padding="0 0 4px 0" align="left" color="#00244d" font-family="Helvetica Neue, Arial, sans-serif">
+          [[Product title]]</mj-text>
+        <mj-text color="#747e8a" font-size="14px" line-height="24px" padding="0 0 4px 0" align="left" font-family="Helvetica Neue, Arial, sans-serif">
+          [[product:product]]
+        </mj-text>
+   </mj-column>
+   <mj-column padding="0" >
+        <mj-text align="right" padding="0">
+          <a href="https://issues.xsolla.com:8443/secure/RapidBoard.jspa?rapidView=999" target="_blank" style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #0073f7;font-size: 14px;">View dashboard</a>
+        </mj-text>
+   </mj-column>      
+</mj-section>
+<mj-include path="./spacer24.mjml" />

@@ -1,0 +1,9 @@
+<mj-section>
+
+  <mj-column width="600px" padding="24px 0 48px 0">
+    <mj-text align="left" color="#747e8a" font-family="Helvetica Neue, Arial, sans-serif" >
+      © 2006—2020 Xsolla Inc.
+    </mj-text>
+  </mj-column>
+
+</mj-section>

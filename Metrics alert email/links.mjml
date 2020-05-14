@@ -1,0 +1,32 @@
+<mj-include path="./spacer24.mjml" />
+
+<mj-section>
+   <mj-column>
+     
+      <mj-text font-weight="600" align="left" font-size="14px" line-height="1.4" padding="0 0 24px 0" font-family="Helvetica Neue, Arial, sans-serif" color="#00244d">
+           Useful links
+      </mj-text>
+         
+      <mj-text  padding="0 0 16px 0"><img style="width: 20px; vertical-align: middle; margin-right: 8px;" src="https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/3329642641536208099-512.png" />
+         <a href="https://confluence.xsolla.com:8443/display/DST/Data+Science+Team?src=sidebar
+" target="_blank" style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #0073f7;font-size: 14px;">
+                    DS Confluence Space
+         </a>
+      </mj-text>
+     
+      <mj-text padding="0 0 16px 0">
+        <img style="width: 20px; vertical-align: middle; margin-right: 8px;" src="https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/1082541111548218186-256.png" />
+         <a href="https://issues.xsolla.com:8443/secure/RapidBoard.jspa?projectKey=DS&rapidView=997" target="_blank" style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #0073f7;font-size: 14px;">DS Jira Deck
+         </a>
+      </mj-text>
+     
+      <mj-text padding="0 0 0 0" font-size="14px" line-height="1.4" text-decoration="underline" color="#0073f7" font-family="Helvetica Neue, Arial, sans-serif">
+        <img style="width: 20px; vertical-align: middle; margin-right: 8px;" src="https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/1082541111548218186-256.png" />
+         <a href="https://issues.xsolla.com:8443/secure/RapidBoard.jspa?rapidView=999" target="_blank" style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #0073f7;font-size: 14px;">
+         DS Jira Product Deck
+                </a>
+      </mj-text>   
+   </mj-column>
+</mj-section>
+
+<mj-include path="./spacer24.mjml" />

@@ -1,0 +1,34 @@
+<mj-section border="1px solid #c5d0db" border-left="4px solid #c5d0db" padding="16px 24px 12px 24px">
+      <mj-column padding="0">
+        <mj-text font-weight="bold" font-size="14px" line-height="24px" padding="0" align="left" color="#00244d" font-family="Helvetica Neue, Arial, sans-serif">
+          metrica:billing_conversion 
+        </mj-text>
+        <mj-text font-size="14px" line-height="24px" padding="0 0 16px 0" align="left" color="#00244d" font-family="Helvetica Neue, Arial, sans-serif">{‘id_project’:’8179’, ‘id_instance’:’8179’, ‘id_country’:’8179’}
+        </mj-text>
+        
+        <mj-table align="left" cellspacing="0" font-family="Helvetica Neue, Arial, sans-serif" font-size="14px" line-height="24px" padding="0">
+          <tr>
+            <td style="padding: 0 ;color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">Value</td>
+            <td style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #00244d;">[[Value]]</td>
+            
+          </tr>
+          <tr>
+            <td style="padding: 0;color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">Case description</td>
+            <td style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #00244d;">[Case description]]</td>
+            
+          </tr>
+          <tr>
+            <td style="padding: 0;color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">Period</td>
+            <td style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #00244d;">[[Dates]]</td>
+          </tr>
+        </mj-table>
+        <mj-divider padding="16px 0 12px 0" border-width="1px" border-style="solid" border-color="#c5d0db" />
+        
+        <mj-text padding="0">
+        <img style="width: 24px; vertical-align: middle;" src="http://static.xsolla.com/80lv/emails/xsolla/Show_not.png" />
+         <a href="https://issues.xsolla.com:8443/secure/RapidBoard.jspa?projectKey=DS&rapidView=997" target="_blank" style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #0073f7;font-size: 14px;">Hide metrica
+         </a>
+      </mj-text>
+      </mj-column>
+    </mj-section>
+<mj-include path="./spacer24.mjml" />
