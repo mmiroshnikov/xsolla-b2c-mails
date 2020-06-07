@@ -16,7 +16,7 @@
   
     <mj-column width="100%" padding="0">
     <mj-text mj-class="h1">
-    Hi, [Name]!  	
+    Hi, [Name] from Xsolla!  	
     </mj-text>
       
       <mj-spacer height="24px" />
