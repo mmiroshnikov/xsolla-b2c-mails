@@ -1,0 +1,9 @@
+    <mj-section padding="0" padding-top="8px">
+      <mj-column padding="0">
+        <mj-text mj-class="text over" color="#747e8a" font-size="16px" line-height="24px">
+          Summer is in high gear at Xsolla. We’ve been busy adding new features and improvements to our product to help you keep delivering for your players during these uncertain times.
+From new SDKs for payments to customized subscription solutions, mobile in-game store options, and a new ZenDesk Chat integration, we’re helping you improve how you sell your video games and connect with your audience.
+Read the Summer Product Announcement
+        </mj-text>
+      </mj-column>
+    </mj-section>

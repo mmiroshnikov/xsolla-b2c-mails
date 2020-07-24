@@ -1,0 +1,22 @@
+  </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0" padding-top="24px">
+
+      <mj-column padding="0" align="left">
+
+        <mj-button mj-class="btn" href="https://80.lv" color="#FFFFFF" background-color="#0073F7">
+         ВВЕСТИ ПЕРЕРАБОТКИ
+        </mj-button>
+
+      </mj-column>
+
+      <mj-column padding-bottom="0" align="left">
+
+        <mj-button mj-class="btn" href="https://80.lv" color="#747E8A" background-color="#FFFFFF" border="1px solid #C5D0DB" >
+         ПОДТВЕРДИТЬ СТАТУС
+        </mj-button>
+
+      </mj-column>
+
+    </mj-section>

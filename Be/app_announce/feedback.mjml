@@ -1,0 +1,10 @@
+    <mj-section padding="0" padding-top="8px">
+      <mj-column padding="0">
+        <mj-text mj-class="text over" color="#747e8a" font-size="16px" line-height="24px">
+As always, if you have any questions, comments, or suggestions, or if you need a hand integrating one of our solutions, get in touch and let us know.
+<br/>
+<br/>
+Enjoy the game,
+        </mj-text>
+      </mj-column>
+    </mj-section>
