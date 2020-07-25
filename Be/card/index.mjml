@@ -20,6 +20,32 @@
       <mj-all font-family="Helvetica Neue, Arial, sans-serif" padding="0" color="#00244d" />
 
       <mj-class
+        name="title"
+        font-weight="bold"
+        font-size="18px"
+        line-height="26px"
+        padding="0 0 12px 0" align="left"
+      />
+      <mj-class
+        name="title2"
+        font-weight="bold"
+        font-size="18px"
+        line-height="24px"
+        padding="0 0 12px 0"
+        align="left"
+      />
+      <mj-class
+        name="card"
+        color="#495c6b"
+        line-height="24px"
+      />
+      <mj-class
+        name="card2"
+        font-size="14px"
+        line-height="18px"
+      />
+
+      <mj-class
         name="btn"
         width="100%"
         font-style="normal"
@@ -53,13 +79,13 @@
       <mj-class
         name="btn3"
         font-style="normal"
-        font-size="16px"
+        font-size="13px"
         line-height="16px"
         align="left"
         letter-spacing="2px"
-        color="#747E8A"
-        background-color="#FFFFFF"
-        padding= "0 0 0 0"
+        background-color="#f6faff"
+        padding="0 16px 0 0"
+        color="#0073F7"
       />
 
       <mj-class
@@ -69,7 +95,7 @@
         font-size="11px"
         line-height="16px"
         background-color="#d5e2f6"
-        color="#0073F7"
+        color="#d5e2f6"
         text-align="left"
         letter-spacing="2px"
         border-radius="4px"
@@ -77,7 +103,7 @@
 
       <mj-class
         name="ctaproject"
-        color="#337bf3"
+        color="#0073F7"
         font-size="13px"
         line-height="18px"
         background-color="#d5e2f6"
@@ -94,7 +120,7 @@
     <!-- <mj-include path="./header.mjml" /> -->
 
 
-    <mj-wrapper background-color="#ffffff">
+    <mj-wrapper background-color="#ffffff" padding="24px">
 
 
 
@@ -175,7 +201,9 @@
       <mj-section padding="0" padding-top="0px" padding-bottom="44px">
         <mj-column padding="0" mj-class="section">
 
-          <mj-button mj-class="btn2 btn" href="https://xsolla-solutions.netlify.app/card-email/39"
+          <mj-button
+            mj-class="btn2 btn"
+            href="https://xsolla-solutions.netlify.app/card-email/39"
             >
             Get Started
           </mj-button>
@@ -205,28 +233,29 @@
         </mj-column>
 
         <mj-column padding="0px 0px 16px 0px" mj-class="section">
-          <mj-text mj-class="title" color="#00244d" font-family="Helvetica Neue, Arial, sans-serif" font-weight="bold" font-size="18px" line-height="26px" padding="0 0 12px 0" align="left">
+          <mj-text mj-class="title title2"
+          >
             Connect with 650K+ influencers and 50+ affiliate networks worldwide
           </mj-text>
 
-          <mj-text mj-class="text over" color="#495c6b" font-size="14px" line-height="24px">
+          <mj-text mj-class="card card2">
             Deliver game keys for every platform where your title is available and give you more control over where and how you sell.
           </mj-text>
         </mj-column>
 
-        <mj-column padding="0" mj-class="section">
-          <mj-text mj-class="text over" color="#495c6b" font-size="14px" line-height="24px">
 
-            <mj-button mj-class="btn3" href="https://80.lv">
+
+          <mj-column padding="0" mj-class="section">
+            <mj-button mj-class="btn btn3" href="https://xsolla-solutions.netlify.app/card-email/39">
               Get Started
             </mj-button>
 
-            <mj-button mj-class="btn3" href="" color="#747E8A" >
+            <mj-button mj-class="btn btn3" href="https://xsolla-solutions.netlify.app/card-email/39">
               Learn more
             </mj-button>
 
-          </mj-text>
-        </mj-column>
+        </mj-group>
+
 
 
 
