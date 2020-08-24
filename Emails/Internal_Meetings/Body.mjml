@@ -1,0 +1,6 @@
+<mj-section padding="0">
+  <mj-column padding="0">
+    <mj-text font-weight="bold" font-size="16px" line-height="24px" padding="0" align="left" color="#00244D" font-family="Helvetica Neue">Meeting agenda</mj-text>
+    <mj-text padding="16px 0 0 0" font-family="Helvetica Neue" font-size="14px" line-height="24px" color="#747E8A"> Регулярная встреча гильдии фасилитаторов. Вопросы для обсуждения:<br>- Какое следующее мероприятие гильдии будем проводить?<br> - Апдейт по готовности плакатов </mj-text>
+  </mj-column>
+</mj-section>

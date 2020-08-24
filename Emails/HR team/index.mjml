@@ -1,0 +1,21 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      
+      <mj-section background-color="#FFFFFF" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+<mj-include path="./Logo.mjml" />
+<mj-include path="./Spacer50px.mjml" />
+<mj-include path="./Header.mjml" />
+<mj-include path="./Spacer32px.mjml" />
+<mj-include path="./Body.mjml" />
+<mj-include path="./Spacer48px.mjml" />
+<mj-include path="./Button.mjml" />
+<mj-include path="./Spacer48px.mjml" />
+<mj-include path="./Footer.mjml" />
+<mj-include path="./Spacer56px.mjml" />
+<mj-include path="./Copyright.mjml" />
+  </mj-body>
+</mjml>

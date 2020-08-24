@@ -1,0 +1,11 @@
+<mj-section padding="0">
+  <mj-column padding="0">
+   
+    <mj-text padding="0" font-family="Helvetica Neue" font-size="14px" line-height="24px" color="#747E8A"> Привет, Елизавета! Вот и завершилась очередная рабочая неделя.
+</mj-text>
+ <mj-text padding="12px 0" font-family="Helvetica Neue" font-size="14px" line-height="24px" color="#747E8A"> Поделись, пожалуйста, впечатлениями о ней в коротком опросе <br> из 3 вопросов — ответь, насколько неделя оказалась для тебя продуктивной <br>и кого из коллег ты хочешь поблагодарить за помощь, совет или вклад в твое развитие.
+</mj-text>
+ <mj-text padding="12px 0" font-family="Helvetica Neue" font-size="14px" line-height="24px" color="#747E8A"> Твои ответы увидит только команда HR и в агрегированном виде использует<br>их для аналитики. Список коллег, получивших благодарности, будет опубликован<br>в канале xsolla_perm и на Workplace.
+</mj-text>
+  </mj-column>
+</mj-section>
