@@ -1,0 +1,22 @@
+<mj-section border="1px solid #c5d0db" border-left="4px solid #c5d0db" padding="16px 24px 12px 24px">
+  <mj-column padding="0">
+    <mj-text font-weight="bold" font-size="14px" line-height="24px" padding="0" align="left" color="#00244d" font-family="Helvetica Neue, Arial, sans-serif"> Title </mj-text>
+    <mj-text font-size="14px" line-height="24px" padding="0 0 16px 0" align="left" color="#00244d" font-family="Helvetica Neue, Arial, sans-serif">Description </mj-text>
+    <mj-table align="left" cellspacing="0" font-family="Helvetica Neue, Arial, sans-serif" font-size="14px" line-height="24px" padding="0">
+      <tr>
+        <td style="padding: 0 ;color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">Rate</td>
+        <td style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #00244d;">0.000</td>
+      </tr>
+      <tr>
+        <td style="padding: 0;color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">Rate</td>
+        <td style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #00244d;">0.000</td>
+      </tr>
+      <tr>
+        <td style="padding: 0;color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">Period</td>
+        <td style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #00244d;">17/02/20–24/02/20</td>
+      </tr>
+    </mj-table>
+    <mj-divider padding="16px 0 12px 0" border-width="1px" border-style="solid" border-color="#c5d0db" />
+    <mj-text padding="0" font-family="Helvetica Neue" color="#0073f7" font-size="14px" text-decoration="underline">  Action </mj-text>
+  </mj-column>
+</mj-section>

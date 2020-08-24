@@ -1,0 +1,57 @@
+<mj-section padding="0">
+  <mj-column padding="0">
+    <mj-table padding="0">
+      <tr style="text-align:left;padding:0;">
+        <td style="padding: 0 32px 0 0;width:120px; font-size:22px; line-height:34px; color:#00244D; font-family:Helvetica Neue, Arial, sans-serif;"> Fri, Jul 31</td>
+        <td style="padding:0; font-size:14px; line-height:24px; color:#747E8A; font-family:Helvetica Neue, Arial, sans-serif;">10:00 – 12:30 am</td>
+      </tr>
+      <tr style="text-align:left;padding:0;">
+        <td>
+        </td>
+        <td style="padding:0; font-weight:bold; font-size:16px; line-height:24px; color:#00244D; font-family:Helvetica Neue;">Sprint Review</td>
+      </tr>
+      <tr style="text-align:left;padding:0;">
+        <td>
+        </td>
+        <td style="padding:12px 0; 
+ font-size:14px; text-decoration:underline; line-height:24px; color:#0076FF; font-family:Helvetica Neue, Arial, sans-serif;">View Meeting Note</td>
+      </tr>
+    </mj-table>
+<mj-table padding="30px 0">
+      <tr style="text-align:left;padding:0;">
+        <td style="padding: 0 32px 0 0;width:120px;"></td>
+        <td style="padding:0; font-size:14px; line-height:24px; color:#747E8A; font-family:Helvetica Neue, Arial, sans-serif;">11:00 – 11:30 am</td>
+      </tr>
+      <tr style="text-align:left;padding:0;">
+        <td>
+        </td>
+        <td style="padding:0; font-weight:bold; font-size:16px; line-height:24px; color:#00244D; font-family:Helvetica Neue;">Daily Omega</td>
+      </tr>
+      <tr style="text-align:left;padding:0;">
+        <td>
+        </td>
+        <td style="padding:12px 0; 
+ font-size:14px; text-decoration:underline; line-height:24px; color:#0076FF; font-family:Helvetica Neue, Arial, sans-serif;">+ Add Meeting Note</td>
+      </tr>
+    </mj-table>
+</mj-table>
+<mj-table padding="0">
+      <tr style="text-align:left;padding:0;">
+        <td style="padding: 0 32px 0 0;width:120px;"></td>
+        <td style="padding:0; font-size:14px; line-height:24px; color:#747E8A; font-family:Helvetica Neue, Arial, sans-serif;">9:00 – 10:45 pm</td>
+      </tr>
+      <tr style="text-align:left;padding:0;">
+        <td>
+        </td>
+        <td style="padding:0; font-weight:bold; font-size:16px; line-height:24px; color:#00244D; font-family:Helvetica Neue;">System Demo #1 Q3 2020. Publishing Suite ART</td>
+      </tr>
+      <tr style="text-align:left;padding:0;">
+        <td>
+        </td>
+        <td style="padding:12px 0; 
+ font-size:14px; text-decoration:underline; line-height:24px; color:#0076FF; font-family:Helvetica Neue, Arial, sans-serif;">+ Add Meeting Note</td>
+      </tr>
+    </mj-table>
+
+  </mj-column>
+</mj-section>

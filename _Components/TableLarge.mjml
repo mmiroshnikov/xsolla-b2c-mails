@@ -1,0 +1,112 @@
+<mjml>
+  <mj-body width="756px">
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-table padding="0">
+          <tr style="border-bottom: 1px solid #C5D0DB; height: 34px;">
+            <td style="width: 164px; font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px;padding:0 31px 0 0;">Column</td>
+            <td style="width: 164px; font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px; padding:0 31px 0 0;">Column</td>
+            <td style="width: 164px;font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px; padding:0 31px 0 0;">Column</td>
+            <td style="width: 70px;font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px; padding:0 31px 0 0;">Column</td>
+            <td style="width: 70px;font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px;padding:0;">Column</td>
+          </tr>
+          <tr>
+            <td style="width: 164px; font-family: Helvetica Neue; font-weight: 500;
+font-size: 14px;
+line-height: 24px;color: #1477F3;padding:32px 31px 0 0;">Name </td>
+            <td style="width: 164px; font-family: Helvetica Neue; font-weight: 500;
+font-size: 14px;
+line-height: 24px;color: #1477F3;padding:32px 31px 0 0;">Name </td>
+            <td style="width: 164px;font-family: Helvetica Neue;font-weight: 500;
+font-size: 14px;
+line-height: 24px; color: #00244D;padding:32px 31px 0 0;margin: 0px 0px;">Name </td>
+            <td style="width: 70px; font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px; color: #00244D;padding:32px 31px 0 0;">0.00</td>
+            <td style="width: 70px; font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px; color: #00244D;padding:32px 0 0 0;">0.00</td>
+          </tr>
+          <tr>
+            <td style="width: 164px; font-family: Helvetica Neue;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;color: #747E8A;padding:0 31px 0 0;">ID 123456 </td>
+            <td style="width: 164px; font-family: Helvetica Neue;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;color: #747E8A;padding:0 31px 0 0;">ID 123456</td>
+            <td style="width: 164px; font-family: Helvetica Neue; color: #747E8A; font-size: 14px;
+line-height: 24px; padding:0 31px 0 0;">Secondary text</td>
+            <td style="width:70px;; font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px;"></td>
+            <td style="width: 70px; font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px;"></td>
+          </tr>
+          <tr style="border-bottom: 1px solid #C5D0DB;">
+            <td style="width: 164px;font-family: Helvetica Neue;
+line-height: 24px; padding:0 0 24px 0;"></td>
+            <td style="width: 164px;margin: 0px 0px; font-family: Helvetica Neue;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px; color: #747E8A;padding:0 0 24px 0;">STATUS</td>
+            <td style="width: 70px;font-family: Helvetica Neue;
+line-height: 24px;padding:0 0 24px 0;"></td>
+            <td style="width: 70px;font-family: Helvetica Neue;
+line-height: 24px;padding:0 0 24px 0;"></td>
+            <td style="width: 164px;font-family: Helvetica Neue;
+line-height: 24px;padding:0 0 24px 0;"></td>
+          </tr>
+ <tr>
+            <td style="width: 164px; font-family: Helvetica Neue; font-weight: 500;
+font-size: 14px;
+line-height: 24px;color: #1477F3;padding:32px 31px 0 0;">Name </td>
+            <td style="width: 164px; font-family: Helvetica Neue; font-weight: 500;
+font-size: 14px;
+line-height: 24px;color: #1477F3;padding:32px 31px 0 0;">Name </td>
+            <td style="width: 164px;font-family: Helvetica Neue;font-weight: 500;
+font-size: 14px;
+line-height: 24px; color: #00244D;padding:32px 31px 0 0;margin: 0px 0px;">Name </td>
+            <td style="width: 70px; font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px; color: #00244D;padding:32px 31px 0 0;">0.00</td>
+            <td style="width: 70px; font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px; color: #00244D;padding:32px 0 0 0;">0.00</td>
+          </tr>
+          <tr>
+            <td style="width: 164px; font-family: Helvetica Neue;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;color: #747E8A;padding:0 31px 0 0;">ID 123456 </td>
+            <td style="width: 164px; font-family: Helvetica Neue;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;color: #747E8A;padding:0 31px 0 0;">ID 123456</td>
+            <td style="width: 164px; font-family: Helvetica Neue; color: #747E8A; font-size: 14px;
+line-height: 24px; padding:0 31px 0 0;">Secondary text</td>
+            <td style="width:70px;; font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px;"></td>
+            <td style="width: 70px; font-family: Helvetica Neue;font-size: 14px;
+line-height: 24px;"></td>
+          </tr>
+          <tr style="border-bottom: 1px solid #C5D0DB;">
+            <td style="width: 164px;font-family: Helvetica Neue;
+line-height: 24px; padding:0 0 24px 0;"></td>
+            <td style="width: 164px;margin: 0px 0px; font-family: Helvetica Neue;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px; color: #747E8A;padding:0 0 24px 0;">STATUS</td>
+            <td style="width: 70px;font-family: Helvetica Neue;
+line-height: 24px;padding:0 0 24px 0;"></td>
+            <td style="width: 70px;font-family: Helvetica Neue;
+line-height: 24px;padding:0 0 24px 0;"></td>
+            <td style="width: 164px;font-family: Helvetica Neue;
+line-height: 24px;padding:0 0 24px 0;"></td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

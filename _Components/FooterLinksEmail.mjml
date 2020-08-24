@@ -1,0 +1,35 @@
+<mj-section padding="0">
+  <mj-column padding="0"> 
+/*Покрасить email в #0073F7*/ 
+<mj-text padding="0 0 16px 0" font-family="Helvetica Neue" font-size="14px" line-height="24px" color="#747E8A">If you have questions please address email@xsolla.com.</mj-text>
+    <mj-table padding="0" width>
+      <tr style="align:left;">
+        <td style="padding: 0 20px 0 0; text-align: left;">
+          <img style="width: 20px; vertical-align: middle; margin-right: 8px;" src="https://res.cloudinary.com/kltsfmkv35/image/upload/v1596194097/jira-1_1_1_drhkuj.png" />
+          <a href="https://confluence.xsolla.com:8443/display/DST/Data+Science+Team?src=sidebar
+" target="_blank" style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #0073f7;font-size: 14px;line-height: 24px; ">Jira</a>
+        </td>
+        <td td style="padding: 0 20px 0 0; text-align: left; ">
+          <img style="width: 20px; vertical-align: middle; margin-right: 8px;" src="https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/3329642641536208099-512.png" />
+          <a href="https://confluence.xsolla.com:8443/display/DST/Data+Science+Team?src=sidebar
+" target="_blank" style="font-family:Helvetica Neue, Arial, sans-serif;color: #0073f7;font-size: 14px;line-height: 24px;">Confluence space </a>
+        </td>
+        <td td style="padding: 0 20px 0 0; text-align: left;  ">
+          <img style="width: 20px; vertical-align: middle; margin-right: 8px;" src="https://res.cloudinary.com/kltsfmkv35/image/upload/v1596194098/Google_Calendar_icon_1_xllc4l.png" />
+          <a href="https://confluence.xsolla.com:8443/display/DST/Data+Science+Team?src=sidebar
+" target="_blank" style="font-family:Helvetica Neue, Arial, sans-serif;color: #0073f7;font-size: 14px;line-height: 24px;">Calendar </a>
+        </td>
+      </tr>
+    </mj-table>
+  </mj-column>
+</mj-section>
+<mj-section padding="0">
+  <mj-column>
+    <mj-table padding="24px 0 0 0" align="left" cellspacing="0" cellpadding="0">
+      <tr style="text-align:left;padding:0;">
+        <td style="padding: 0;width:16px;"><img style="width: 48px; vertical-align: middle; margin-right: 16px;" src="https://res.cloudinary.com/kltsfmkv35/image/upload/v1596015872/Logo_qbeayt.png" /></td>
+        <td style="font-weight: 500; font-size: 14px; line-height: 24px; align:left; color: #00244D; font-family: Helvetica Neue">Thank you,<br>Your Team</br></td>
+      </tr>
+    </mj-table>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,5 @@
+<mj-section padding="0">
+  <mj-column>
+    <mj-text padding="0" font-size="14px" line-height="24px" color="#747E8A" font-family="Helvetica Neue, Arial, sans-serif"> Mon, May 4, @ 17:00 pm </mj-text>
+  </mj-column>
+</mj-section>

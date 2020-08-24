@@ -1,0 +1,15 @@
+<mj-section padding="0">
+  <mj-column>
+    <mj-table padding="0" align="left" cellspacing="0" cellpadding="0">
+      <tr style="text-align:left;padding:0;">
+        <td style="padding: 0;width:16px;"><img style="width: 48px; vertical-align: middle; margin-right: 16px;" src="https://res.cloudinary.com/kltsfmkv35/image/upload/v1596551933/Frame_143_gmefvr.png" /></td>
+        <td style="font-weight: bold; font-size: 24px; line-height: 24px; align:left; color: #00244D; font-family: Helvetica Neue">Follow-up: Facilitators Guild Meeting </td>
+      </tr>
+    </mj-table>
+  </mj-column>
+</mj-section>
+<mj-section padding="0">
+  <mj-column>
+    <mj-divider padding="32px 0 0 0" border-width="2px" border-style="solid" border-color="#00244D" />
+  </mj-column>
+</mj-section>

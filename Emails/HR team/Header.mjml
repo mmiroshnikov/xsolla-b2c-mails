@@ -1,0 +1,21 @@
+<mj-section padding="0">
+  <mj-column width="8%">
+    <mj-image padding="0" width="48px" align="left" src="https://res.cloudinary.com/kltsfmkv35/image/upload/v1596557495/icon1_xy5rvl.png" />
+  </mj-column>
+  <mj-column width="90%" padding-left="16px">
+    <mj-text font-weight="bold" font-size="24px" line-height="24px" padding="0 0 8px 0" align="left" color="#00244D" font-family="Helvetica Neue">Еженедельный опрос</mj-text>
+    <mj-table padding="0" align="left" cellspacing="0" cellpadding="0">
+      <tr style="text-align:left;padding:0;">
+        <td style="padding: 0;width:24px;"><img style="width: 24px; vertical-align: middle; margin-right: 8px;" src="http://static.xsolla.com/80lv/emails/xsolla/Calendar.png" /></td>
+        <td style="padding: 0; font-weight: 400;
+font-size: 14px;
+line-height: 24px; color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">March 16 — March 20</td>
+      </tr>
+    </mj-table>
+  </mj-column>
+</mj-section>
+<mj-section padding="0">
+  <mj-column>
+    <mj-divider padding="32px 0 0 0" border-width="2px" border-style="solid" border-color="#00244D" />
+  </mj-column>
+</mj-section>

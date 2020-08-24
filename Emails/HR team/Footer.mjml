@@ -1,0 +1,23 @@
+<mj-section padding="0">
+       <mj-column padding="0">
+         <mj-table padding="0" cellspacing="20px" width>
+           <tr style="align:left;">
+             <td style="padding: 0 20px 0 0; text-align: left; font-size: 14px; font-family:Helvetica Neue; line-height: 24px; text-decoration: underline; color: #0073F7;">
+               <mj-button padding-right="20px">xsolla_perm</mj-button>
+             </td>
+             <td td style="padding: 0 20px 0 0; text-align: left; font-size: 14px; font-family:Helvetica Neue; line-height: 24px; text-decoration: underline; color: #0073F7;">
+               <mj-button padding-right="20px">
+Workplace</mj-button>
+             </td>
+      
+           </tr>
+         </mj-table>
+       </mj-column>
+     </mj-section>
+<mj-section padding="0">
+  <mj-column>
+    <mj-text font-weight="500" align="left" font-size="14px" line-height="24px" padding="16px 0 0 0" font-family="Helvetica Neue, Arial, sans-serif" color="#00244d"> Thank you, <br> Your HR Team </br>
+    </mj-text>
+  </mj-column>
+</mj-section>
+

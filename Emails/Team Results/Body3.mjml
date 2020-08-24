@@ -1,0 +1,22 @@
+<mj-section border="1px solid #c5d0db" border-left="4px solid #EB002F" padding="16px 24px 12px 24px">
+  <mj-column padding="0">
+    <mj-text font-weight="bold" font-size="14px" line-height="24px" padding="0" align="left" color="#00244d" font-family="Helvetica Neue, Arial, sans-serif">Visualize information on the basic characteristics of the landing page and events  to optimize the partner’s traffic (increase in sales conversion, decrease in requests to AM with questions on landing characteristics)</mj-text>
+    <mj-text font-size="14px" line-height="24px" padding="0 0 16px 0" align="left" color="#00244d" font-family="Helvetica Neue, Arial, sans-serif">Assignee: a.menshikov@xsolla.com</mj-text>
+    <mj-table align="left" cellspacing="0" font-family="Helvetica Neue, Arial, sans-serif" font-size="14px" line-height="24px" padding="0">
+      <tr>
+        <td style="padding: 0 ;color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">Reporter</td>
+        <td style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #00244d;">a.menshikov@xsolla.com</td>
+      </tr>
+      <tr>
+        <td style="padding: 0;color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">Progress</td>
+        <td style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #00244d;">0</td>
+      </tr>
+      <tr>
+        <td style="padding: 0;color: #747e8a;font-family:Helvetica Neue, Arial, sans-serif;">Goal</td>
+        <td style="padding: 0;font-family:Helvetica Neue, Arial, sans-serif;color: #00244d;">0</td>
+      </tr>
+    </mj-table>
+    <mj-divider padding="16px 0 12px 0" border-width="1px" border-style="solid" border-color="#c5d0db" />
+    <mj-text padding="0" font-family="Helvetica Neue" color="#0073f7" font-size="14px" text-decoration="underline">  Action </mj-text>
+  </mj-column>
+</mj-section>

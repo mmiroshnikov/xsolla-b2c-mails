@@ -1,0 +1,16 @@
+<mj-section padding="0">
+  <mj-column padding="0">
+<mj-text padding="0" font-size="14px" line-height="24px" color="#747E8A" font-family="Helvetica Neue, Arial, sans-serif"> Date </mj-text>
+<mj-text font-weight="bold" font-size="16px" line-height="24px" padding="0" align="left" color="#00244D" font-family="Helvetica Neue"> Example title </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding="0">
+  <mj-column padding="0">
+    <mj-button padding="20px 0 0 0" border-radius="100px" background-color="#0076FF" text-align="left" inner-padding="10px 32px" font-weight="bold" font-size="12px" line-height="16px" align="left" color="#FFFFFF" font-family="Helvetica Neue"> BUTTON </mj-button>
+  </mj-column>
+</mj-section>
+<mj-section padding="0">
+  <mj-column>
+    <mj-divider padding="30px 0 0 0" border-width="1px" border-style="solid" border-color="#C5D0DB" />
+  </mj-column>
+</mj-section>

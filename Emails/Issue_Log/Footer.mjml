@@ -1,0 +1,6 @@
+<mj-section padding="0">
+  <mj-column>
+    <mj-text font-weight="500" align="left" font-size="14px" line-height="24px" padding="0 0 0 0" font-family="Helvetica Neue, Arial, sans-serif" color="#00244d"> Thank you, <br> Your Automation Team </br>
+    </mj-text>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,9 @@
+  <mj-section padding="0">
+      <mj-column padding="0">
+<mj-text font-weight="bold" font-size="11px" line-height="16px" padding="0" align="left" color="#00244D" font-family="Helvetica Neue"> MEETINGS </mj-text>
+
+
+    <mj-button padding="16px 0" border="1px solid #ACD2FD" border-radius="0" background-color="#EBF4FE" text-align="left" inner-padding="2px 8px" font-weight="bold" font-size="11px" line-height="24px" align="left" color="#0073F7" font-family="Helvetica Neue"> You can add meeting notes and object (Tasks, results, links) in the Internal Meetings App</mj-button>
+
+      </mj-column>
+    </mj-section>
