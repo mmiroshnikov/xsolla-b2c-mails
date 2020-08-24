@@ -1,0 +1,14 @@
+  <mj-section padding="0">
+      <mj-column padding="0">
+<mj-text font-weight="bold" font-size="11px" line-height="16px" padding="0" align="left" color="#00244D" font-family="Helvetica Neue"> EXAMPLE TITLE </mj-text>
+
+
+    <mj-button padding="16px 0" border="1px solid #ACD2FD" border-radius="0" background-color="#EBF4FE" text-align="left" inner-padding="2px 8px" font-weight="bold" font-size="11px" line-height="24px" align="left" color="#0073F7" font-family="Helvetica Neue"> A newer version of the API is available. Learn more </mj-button>
+
+
+        <mj-text padding="16px 0 0 0" font-family="Helvetica Neue" font-size="14px" line-height="24px" color="#747E8A">
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu vulputate elit. Donec suscipit aliquet est, non auctor nisi fringilla eu. Aliquam sit amet finibus mi, a tincidunt nunc. Aliquam sed lacus bibendum sapien hendrerit lacinia sed et odio. Sed dui dui, ultrices eu turpis in, euismod dapibus dui. Sed metus turpis, auctor sed mauris ut, tincidunt faucibus ipsum. Curabitur finibus venenatis blandit.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  

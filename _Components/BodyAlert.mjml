@@ -1,0 +1,28 @@
+
+<mj-section padding="0" border="1px solid #ACD2FD" background-color="#EBF4FE" >
+  
+  <mj-column padding="12px 16px">
+        <mj-table padding="0">
+          <tr>
+            <td style="padding: 0 8px 0 0;"><img style="width: 24px; vertical-align: middle; margin-right: 8px;" src="http://static.xsolla.com/80lv/emails/xsolla/Alert.png" /></td>
+            <td style="padding: 0; font-weight: 500;
+font-size: 14px;
+line-height: 24px; color: #0073F7;font-family:Helvetica Neue, Arial, sans-serif;">Alert message</td>
+            
+          </tr>
+          <tr>
+            <td style="padding: 0 8px 0 0;"></td>
+            <td style="padding: 0; font-weight: 400;
+font-size: 14px;line-height: 24px; color: #0073F7;font-family:Helvetica Neue, Arial, sans-serif;">Changes to these critical settings can immediately affect payment and sales functionality of your live project.</td>
+            
+          </tr>
+        </mj-table>
+      </mj-column>
+</mj-section>
+<mj-section padding="0">
+      <mj-column padding="0">
+        <mj-text padding="32px 0 0 0" font-family="Helvetica Neue" font-size="14px" line-height="24px" color="#747E8A">
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu vulputate elit. Donec suscipit aliquet est, non auctor nisi fringilla eu. Aliquam sit amet finibus mi, a tincidunt nunc. Aliquam sed lacus bibendum sapien hendrerit lacinia sed et odio. Sed dui dui, ultrices eu turpis in, euismod dapibus dui. Sed metus turpis, auctor sed mauris ut, tincidunt faucibus ipsum. Curabitur finibus venenatis blandit.
+        </mj-text>
+      </mj-column>
+    </mj-section>

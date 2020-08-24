@@ -1,0 +1,5 @@
+<mj-section padding="0">
+  <mj-column padding="0">
+    <mj-text padding="0" font-family="Helvetica Neue" font-weight="bold" font-size="11px" line-height="16px" color="#747E8A"> STATUS </mj-text>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,10 @@
+<mj-section padding="0">
+  <mj-column>
+    <mj-table padding="0" align="left" cellspacing="0" cellpadding="0">
+      <tr style="text-align:left;padding:0;">
+        <td style="padding: 0;width:16px;"><img style="width: 48px; vertical-align: middle; margin-right: 16px;" src="https://res.cloudinary.com/kltsfmkv35/image/upload/v1596210802/05._Pay_Station_w214lr.png" /></td>
+        <td style="font-weight: 500; font-size: 14px; line-height: 24px; align:left; color: #00244D; font-family: Helvetica Neue">Thank you,<br>Your Team</br></td>
+      </tr>
+    </mj-table>
+  </mj-column>
+</mj-section>

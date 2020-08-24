@@ -1,0 +1,86 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section background-color="#FFFFFF" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <mj-include path="./LogoSimple.mjml" />
+    <mj-include path="./Spacer.mjml" />
+<mj-include path="./LogoApp.mjml" />
+  <mj-include path="./Spacer.mjml" />
+<mj-include path="./LogoTeam.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./AlertSimple.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./AlertMessage.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./Notification.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./Status.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./Button.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./FlattButtonIcon.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./FlattButton.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./Date.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./DateTime.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./DatePeriod.mjml" />
+    <mj-include path="./Spacer.mjml" /> /*Исправить расстояния и ширину*/
+    <mj-include path="./Links.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./LinksWithIcons.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./Indicators.mjml" />
+    <mj-include path="./Spacer.mjml" />/*Исправить расстояния и ширину*/
+    <mj-include path="./DividerBlue.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./DividerBlack.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./DividerSecondary.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./TitleSimple.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./TitleIcon.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./TitleIconPeriod.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./BlockFirst.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./BlockSecond.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./BlockThird.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./TableCell.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./BodySimple.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./BodyWithNotification.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./BodyAlert.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./FooterSimple.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./FooterSimpleLogo.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./FooterSimpleName.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./FooterSimpleProduct.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./FooterQuestions.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./FooterLinks.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./FooterDescription.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./FooterLinksEmail.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./Copyright.mjml" />
+    <mj-include path="./Spacer.mjml" />
+    <mj-include path="./TableLarge.mjml" />
+  </mj-body>
+</mjml>

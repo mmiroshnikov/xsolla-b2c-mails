@@ -1,0 +1,13 @@
+<mj-section padding="0">
+  <mj-column>
+    <mj-text padding="0" font-family="Helvetica Neue" font-size="14px" line-height="24px" color="#747E8A">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu vulputate elit. Donec suscipit aliquet est, non auctor nisi fringilla eu.</mj-text> 
+/*Покрасить email в #0073F7*/ 
+<mj-text padding="16px 0 0 0" font-family="Helvetica Neue" font-size="14px" line-height="24px" color="#747E8A">If you have questions please address email@xsolla.com.</mj-text>
+    <mj-table padding="16px 0 0 0" align="left" cellspacing="0" cellpadding="0">
+      <tr style="text-align:left;padding:0;">
+        <td style="padding: 0;width:16px;"><img style="width: 48px; vertical-align: middle; margin-right: 16px;" src="https://res.cloudinary.com/kltsfmkv35/image/upload/v1596015872/Logo_qbeayt.png" /></td>
+        <td style="font-weight: 500; font-size: 14px; line-height: 24px; align:left; color: #00244D; font-family: Helvetica Neue">Thank you,<br>Your Team</br></td>
+      </tr>
+    </mj-table>
+  </mj-column>
+</mj-section>
